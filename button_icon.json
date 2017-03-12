@@ -1,0 +1,43 @@
+{
+  "gaiajson":{
+    "components":{
+      "button":{
+        "type": "iconbutton",
+        "text_title": "Gaia Button",
+        "style":{
+          "icon":{
+            "image": "https://raw.githubusercontent.com/Jasonette/Instagram-UI-example/master/images/heart.png",
+            "width": 30,
+            "height": 30,
+            "scale": 0.5
+          },
+          "title":{
+            "text_alignment": "left",
+            "enable": 1
+          },
+          "border":{
+            "width": 1,
+            "color": "#00ff00",
+            "hi_color": "#00ccff",
+            "corner_radius": 5
+          },
+          "gradient":{
+            "start_color": "#33ccdd",
+            "end_corlor": "#2200ff",
+            "type": "horizontal"
+          },
+          "position_items":{
+            "ypos": 5,
+            "xpos": 5
+          },
+          "width": 76,
+          "height": 76,
+          "bg_color": "#ff22cc",
+          "bg_hicolor": "#00ffdd",
+          "margin-top": 5,
+          "margin-right": 5
+        }
+      } 
+    }
+  }
+}
