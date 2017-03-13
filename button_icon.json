@@ -4,8 +4,8 @@
         "style":{
           "icon":{
             "image": "https://raw.githubusercontent.com/Jasonette/Instagram-UI-example/master/images/heart.png",
-            "width": 30,
-            "height": 30,
+            "width": 50,
+            "height": 50,
             "scale": 0.5
           },
           "title":{
