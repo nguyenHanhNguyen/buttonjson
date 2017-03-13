@@ -28,11 +28,11 @@
             "xpos": 5
           },
           "width": 400,
-          "height": 80,
+          "height": 100,
           "bg_color": "#ff22cc",
           "bg_hicolor": "#00ffdd",
-          "margin-top": 20,
-          "margin-right": 20,
+          "margin_top": 20,
+          "margin_right": 20,
           "margin_left" : 20,
           "margin_bottom":20      
         }
