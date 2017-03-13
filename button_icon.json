@@ -20,7 +20,7 @@
           },
           "gradient":{
             "start_color": "#33ccdd",
-            "end_corlor": "#2200ff",
+            "end_color": "#2200ff",
             "type": "horizontal"
           },
           "position_items":{
