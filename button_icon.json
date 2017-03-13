@@ -27,8 +27,8 @@
             "ypos": 5,
             "xpos": 5
           },
-          "width": 400,
-          "height": 100,
+          "width": 300,
+          "height": 200,
           "bg_color": "#ff22cc",
           "bg_hicolor": "#00ffdd",
           "margin_top": 20,
