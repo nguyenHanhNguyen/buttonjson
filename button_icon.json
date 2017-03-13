@@ -27,13 +27,13 @@
             "ypos": 5,
             "xpos": 5
           },
-          "width": 200,
+          "width": 400,
           "height": 80,
           "bg_color": "#ff22cc",
           "bg_hicolor": "#00ffdd",
-          "margin-top": 15,
-          "margin-right": 5,
-          "margin_left" : 5,
-          "margin_bottom":5      
+          "margin-top": 20,
+          "margin-right": 20,
+          "margin_left" : 20,
+          "margin_bottom":20      
         }
 }
