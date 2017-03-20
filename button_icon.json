@@ -1,39 +1,47 @@
 {
-"type": "iconbutton",
-        "text_title": "Gaia Button",
-        "style":{
-          "icon":{
-            "image": "https://raw.githubusercontent.com/Jasonette/Instagram-UI-example/master/images/heart.png",
-            "width": 50,
-            "height": 50,
-            "scale": 0.5
-          },
-          "title":{
-            "text_alignment": "left",
-            "enable": 1
-          },
-          "border":{
-            "width": 1,
-            "color": "#00ff00",
-            "hi_color": "#00ccff",
-            "corner_radius": 5
-          },
-          "gradient":{
-            "start_color": "#33ccdd",
-            "end_color": "#2200ff",
-            "type": "horizontal"
-          },
-          "position_items":{
-            "ypos": 5,
-            "xpos": 5
-          },
-          "width": 350,
-          "height": 120,
-          "bg_color": "#ff22cc",
-          "bg_hicolor": "#00ffdd",
-          "margin_top": 20,
-          "margin_right": 20,
-          "margin_left" : 20,
-          "margin_bottom":20      
-        }
+	"gaiajson": {
+		"components": [
+			{
+				"type": "iconbutton",
+				"style": {
+					"icon": {
+						"image": "https://raw.githubusercontent.com/Jasonette/Instagram-UI-example/master/images/heart.png",
+						"scale": 0.5,
+						"position": {
+							"icon_align": "right",
+							"moving": 0
+						}
+					},
+					"title": {
+						"text": "Gaia Button",
+						"color": "#ff0000",
+						"font_family": ["AppleColorEmoji","BradleyHandITCTT-Bold", "Cochin-Italic"],
+						"font_size": 17
+					},
+					"border": {
+						"width": 1,
+						"color": "#00ff00",
+						"hicolor": "#00ccff",
+						"corner_radius": 5
+					},
+					"gradient": {
+						"enable": 1,
+						"start_color": "#33ccdd",
+						"end_color": "#2200ff",
+						"type": "horizontal"
+					},
+					"position_items": {
+						"ypos": 0,
+						"xpos": 0
+					},
+					"width": 300,
+					"height": 76,
+					"bg_color": "clear",
+					"bg_hicolor": "#00ffdd",
+					"margin_top": 300,
+					"margin_left": 30
+				}
+			}
+		]
+	}
 }
