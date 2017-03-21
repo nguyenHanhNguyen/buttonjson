@@ -57,6 +57,12 @@
 							"moving": 0
 						}
 					},
+					"title": {
+						"text": "Gaia Button",
+						"color": "#ff0000",
+						"font_family": ["AppleColorEmoji","BradleyHandITCTT-Bold", "Cochin-Italic"],
+						"font_size": 17
+					},
 					"border": {
 						"width": 1,
 						"color": "#00ff00",
@@ -77,10 +83,10 @@
 					"height": 76,
 					"bg_color": "#33ccdd",
 					"bg_hicolor": "#00ffdd",
-					"margin_top": 300,
+					"margin_top": 380,
 					"margin_left": 30
 				}
-			}
+			},
 		]
 	}
 }
