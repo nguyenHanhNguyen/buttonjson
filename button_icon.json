@@ -47,16 +47,7 @@
 			{
 				"type": "iconbutton",
 				"style": {
-					"icon": {
-						"image": "https://raw.githubusercontent.com/Jasonette/Instagram-UI-example/master/images/heart.png",
-						"scale": 0.5,
-						"width":50,
-						"height":50,
-						"position": {
-							"icon_align": "right",
-							"moving": 0
-						}
-					},
+	
 					"title": {
 						"text": "Gaia Button",
 						"color": "#ff0000",
