@@ -40,7 +40,7 @@
 					"height": 76,
 					"bg_color": "#33ccdd",
 					"bg_hicolor": "#00ffdd",
-					"margin_top": 100,
+					"margin_top": 80,
 					"margin_left": 30
 				}
 			},
@@ -74,7 +74,7 @@
 					"height": 76,
 					"bg_color": "#33ccdd",
 					"bg_hicolor": "#00ffdd",
-					"margin_top": 120,
+					"margin_top": 90,
 					"margin_left": 30
 				}
 			},
@@ -111,7 +111,7 @@
 					"height": 76,
 					"bg_color": "#33ccdd",
 					"bg_hicolor": "#00ffdd",
-					"margin_top": 140,
+					"margin_top": 100,
 					"margin_left": 30
 				}
 			}
