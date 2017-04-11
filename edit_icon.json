@@ -25,7 +25,7 @@
 					},
 					"placeholder":"TextFieldIcon",
 					"text":{
-						"content":"",
+						"content":"TextFieldIcon",
 						"padding":{
 							"left":32,
 							"right":1
