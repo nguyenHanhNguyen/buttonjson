@@ -1,91 +1,89 @@
 {
-	"gaiajson":{
-		"components":[
-			{
-				"type": "icontextfield",
-				"style":{
-					"border":{
-						"show_line":{
-							"top":true,
-							"left":true,
-							"bottom":true,
-							"right":true
-						},
-						"corner":{
-							"radius":10,
-							"show":{
-								"top_left":true,
-								"top_right":true,
-								"bottom_left":true,
-								"bottom_right":true
-							}
-						},
-						"width":1,
-						"color":"#80ff0000"
+	"gaiajson": {
+		"components": [{
+			"type": "icontextfield",
+			"style": {
+				"border": {
+					"show_line": {
+						"top": true,
+						"left": true,
+						"bottom": true,
+						"right": true
 					},
-					"placeholder":"TextFieldIcon",
-					"text":{
-						"content":"TextFieldIcon",
-						"padding":{
-							"left":32,
-							"right":1
-						},
-						"color": "#ff0000",
-						"font_family": [
-							"Arial","Cochin"
-						],
-						"text_size": {
-							"target":17,
-							"min":17,
-							"adjust_to_fit":true
-						},
-						"text_style": ["bold", "italic"],
-						"alignment":"center",
-						"capitalization":"none",
-						"correction": false,
-						"spell_checking": false,
+					"corner": {
+						"radius": 10,
+						"show": {
+							"top_left": true,
+							"top_right": true,
+							"bottom_left": true,
+							"bottom_right": true
+						}
 					},
-					"clear_button":{
-						"appear":"never",
-						"clear_when_editing_begins":true,
-						"icon":"https://raw.githubusercontent.com/Jasonette/Instagram-UI-example/master/images/heart.png"
+					"width": 1,
+					"color": "#80ff0000"
+				},
+				"placeholder": "TextFieldIcon",
+				"text": {
+					"content": "TextFieldIcon",
+					"padding": {
+						"left": 32,
+						"right": 1
 					},
-					"icon":{
-						"show":true,
-						"image":"https://raw.githubusercontent.com/Jasonette/Instagram-UI-example/master/images/heart.png",
-						"position":{
-							"icon_align":"left",
-							"moving": "3"
-						},
-						"scale":0.5
+					"color": "#ff0000",
+					"font_family": [
+						"Arial", "Cochin"
+					],
+					"text_size": {
+						"target": 17,
+						"min": 17,
+						"adjust_to_fit": true
 					},
-					"background":"#00ffdd",
+					"text_style": ["bold", "italic"],
+					"alignment": "center",
+					"capitalization": "none",
+					"correction": false,
+					"spell_checking": false
 				},
-				"keyboard":{
-					"type": "ascii", 
-					"appearance": "dark",
-					"return_key":{
-						"auto": false,
-						"secure_text_entry": false
-					}
+				"clear_button": {
+					"appear": "never",
+					"clear_when_editing_begins": true,
+					"icon": "https://raw.githubusercontent.com/Jasonette/Instagram-UI-example/master/images/heart.png"
 				},
-				"margin":{
-					"top": 300,
-					"bottom": 0,
-					"left":30,
-					"right":0
+				"icon": {
+					"show": true,
+					"image": "https://raw.githubusercontent.com/Jasonette/Instagram-UI-example/master/images/heart.png",
+					"position": {
+						"icon_align": "left",
+						"moving": "3"
+					},
+					"scale": 0.5
 				},
-				"padding":{
-					"top":0,
-					"bottom":0,
-					"left":0,
-					"right":0
-				},
-				"size":{
-					"width": 300,
-					"height": 76
-				},
+				"background": "#00ffdd"
+			},
+			"keyboard": {
+				"type": "ascii",
+				"appearance": "dark",
+				"return_key": {
+					"auto": false,
+					"secure_text_entry": false
+				}
+			},
+			"margin": {
+				"top": 300,
+				"bottom": 0,
+				"left": 30,
+				"right": 0
+			},
+			"padding": {
+				"top": 0,
+				"bottom": 0,
+				"left": 0,
+				"right": 0
+			},
+			"size": {
+				"width": 300,
+				"height": 76
 			}
-		]
+		}]
 	}
 }
