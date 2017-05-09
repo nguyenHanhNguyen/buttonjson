@@ -51,7 +51,7 @@
 						"type": "horizontal"
 					},
 					"background":{
-						"normal": "clear",
+						"normal": "#33ccdd",
 						"highlighted": "#00ffdd"
 					}
 				},
