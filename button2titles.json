@@ -18,7 +18,7 @@
 							"BradleyHandITCTT-Bold",
 							"Cochin-Italic"
 						],
-						"text_size": 17,
+						"text_size": 25,
 						"text_style": ["bold"],
 						"text_alignment": "center"
 					},
@@ -30,7 +30,7 @@
 							"BradleyHandITCTT-Bold",
 							"Cochin-Italic"
 						],
-						"text_size": 12,
+						"text_size": 20,
 						"text_style": ["bold"],
 						"text_alignment": "center"
 					},
